@@ -1,0 +1,5 @@
+streamlit
+teachable-machine
+tensorflow
+numpy
+Pillow
